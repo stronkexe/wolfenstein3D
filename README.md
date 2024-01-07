@@ -1,9 +1,10 @@
-# cub3D
-### My first RayCaster with miniLibX
+### `~cub3d`
+<pre><p align="center"> <img src="https://64.media.tumblr.com/tumblr_mdng4rxgZl1qikcuzo1_500.gif" alt="cube3d"/> </p></pre>
 
+______________________________________
 
-<br/>
+<h6><strong>◦ Graphics Engine:</strong> Building a basic 3D graphics engine from scratch in C, including handling rendering, transformations, and basic interactions.</h6>
 
-![raycasting_demo_1 3_0a gif a0ab69046e03f435043ae0a3862862da](https://user-images.githubusercontent.com/94312066/196661179-172ab1cc-66de-42e5-8dae-b70c9360f207.gif)
+<h6><strong>◦ Game Logic:</strong> Developing a game within this engine. It might involve creating a simple game environment, implementing game mechanics, player interactions, collision detection, and possibly enemy behaviors.</h6>
 
-`Made with love by this dude @stronk-exe and me`
+<h6><strong>◦ User Interaction:</strong> Allowing user input to control the game, such as moving characters, camera controls, or other game-specific actions.</h6>
